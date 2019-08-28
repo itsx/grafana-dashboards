@@ -75,7 +75,7 @@
         },
         {
             "asDropdown": true,
-            "includeVars": false,
+            "includeVars": true,
             "keepTime": true,
             "tags": [
                 "Services"
@@ -86,7 +86,7 @@
         },
         {
             "asDropdown": true,
-            "includeVars": false,
+            "includeVars": true,
             "keepTime": true,
             "tags": [
                 "PMM"
@@ -3924,7 +3924,7 @@
     "style": "dark",
     "tags": [
         "Percona",
-        "HA"
+        "HA_Compare"
     ],
     "templating": {
         "list": [

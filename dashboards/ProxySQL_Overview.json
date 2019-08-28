@@ -63,6 +63,29 @@
             "url": "/graph/d/7w6Q3PJmz/pmm-query-analytics"
         },
         {
+            "icon": "bolt",
+            "includeVars": true,
+            "keepTime": true,
+            "tags": [
+                "Compare"
+            ],
+            "targetBlank": false,
+            "title": "Compare",
+            "type": "link",
+            "url": "/graph/d/GmicprYiz/pxc-galera-hosts-compare"
+        },
+        {
+            "asDropdown": true,
+            "includeVars": true,
+            "keepTime": true,
+            "tags": [
+                "MySQL"
+            ],
+            "targetBlank": false,
+            "title": "MySQL",
+            "type": "dashboards"
+        },
+        {
             "asDropdown": true,
             "includeVars": true,
             "keepTime": true,
@@ -75,7 +98,7 @@
         },
         {
             "asDropdown": true,
-            "includeVars": false,
+            "includeVars": true,
             "keepTime": true,
             "tags": [
                 "Services"
@@ -86,7 +109,7 @@
         },
         {
             "asDropdown": true,
-            "includeVars": false,
+            "includeVars": true,
             "keepTime": true,
             "tags": [
                 "PMM"
